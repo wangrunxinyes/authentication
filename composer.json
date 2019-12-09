@@ -1,0 +1,6 @@
+{
+	"name" : "wangrunxinyes/authentication",
+	"require" : {
+		"defuse/php-encryption" : "~2.2"
+	}
+}
